@@ -37,10 +37,10 @@ public class SimpleController {
 	public static final String MOTION_SENSOR_VACANT = "-1: Got a zone status:32";
 
 	// Sound file pathes
-	public static final String ALARM_SOUND_PATH = "C:\\Users\\co-op\\Downloads\\leftright.wav";
-	public static final String BEEP_SOUND_PATH = "C:\\Users\\co-op\\Downloads\\leftright.wav";
-	public static final String LOCK_SOUND_PATH = "C:\\Users\\co-op\\Downloads\\leftright.wav";
-	public static final String UNLOCK_SOUND_PATH = "C:\\Users\\co-op\\Downloads\\leftright.wav";
+	public static final String ALARM_SOUND_PATH = "leftright.wav";
+	public static final String BEEP_SOUND_PATH = "leftright.wav";
+	public static final String LOCK_SOUND_PATH = "leftright.wav";
+	public static final String UNLOCK_SOUND_PATH = "leftright.wav";
 
 	/*
 	 * System status: 0: unlock; 1: lock;
